@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472374388 source:d:\pat\pat_1018\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stack>
+	<string.h>
+
