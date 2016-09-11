@@ -121,12 +121,12 @@ int main()
 
     if(bst(0, N - 1) || mirror(0, N - 1))
     {
-        cout << "Yes" << endl;
+        cout << "YES" << endl;
         postOrder(0);
     }
     else
     {
-        cout << "No" << endl;
+        cout << "NO" << endl;
     }
     return 0;
 }
